@@ -1,7 +1,7 @@
-I want to master keyboard shortcuts so I no longer rely upon my mouse/trackpad.
-Git is a lot to learn, and I need to "commit" to practicing it.
+I want to stay committed to mastering the keyboard shortcuts so I no longer have to rely on the mouse/trackpad.
 
-I am committed to not using my mouse while working on the technical portion of my homework/project.
 I am committed to taking notes in advance and using colors and other suggested organizational strategies to see how it works for me.
 
-My wife!
+Someone who's supported me along the way: my wife Natalie!
+
+New thoughts for session project: git and github are getting easier the more I use them. 
